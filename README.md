@@ -120,10 +120,6 @@ MIT License - see LICENSE file for details
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## Author
-
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-
 ## Acknowledgments
 
 - Inspired by [neofetch](https://github.com/dylanaraps/neofetch)
