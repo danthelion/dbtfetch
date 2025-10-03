@@ -10,13 +10,13 @@ long_description = (this_directory / "README.md").read_text(encoding='utf-8')
 
 setup(
     name='dbtfetch',
-    version='1.0.0',
-    author='Your Name',
-    author_email='your.email@example.com',
+    version='1.0.1',
+    author='Daniel Palma',
+    author_email='danivgy@gmail.com',
     description='A neofetch-style system information tool for dbt projects',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/dbtfetch',
+    url='https://github.com/danthelion/dbtfetch',
     packages=find_packages(),
     classifiers=[
         'Development Status :: 4 - Beta',
@@ -41,7 +41,7 @@ setup(
     },
     keywords='dbt data analytics neofetch statistics',
     project_urls={
-        'Bug Reports': 'https://github.com/yourusername/dbtfetch/issues',
-        'Source': 'https://github.com/yourusername/dbtfetch',
+        'Bug Reports': 'https://github.com/danthelion/dbtfetch/issues',
+        'Source': 'https://github.com/danthelion/dbtfetch',
     },
 )
