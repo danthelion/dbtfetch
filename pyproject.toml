@@ -29,9 +29,9 @@ dependencies = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/yourusername/dbtfetch"
-"Bug Reports" = "https://github.com/yourusername/dbtfetch/issues"
-"Source" = "https://github.com/yourusername/dbtfetch"
+"Homepage" = "https://github.com/danthelion/dbtfetch"
+"Bug Reports" = "https://github.com/danthelion/dbtfetch/issues"
+"Source" = "https://github.com/danthelion/dbtfetch"
 
 [project.scripts]
 dbtfetch = "dbtfetch.cli:main"
