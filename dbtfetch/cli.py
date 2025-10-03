@@ -2,7 +2,7 @@
 """
 dbtfetch - A neofetch-style system information tool for dbt projects
 
-This tool displays project statistics and information for dbt (data build tool) projects
+This tool displays project statistics and information for dbt projects
 in a visually appealing format similar to neofetch. It can analyze the current directory
 or a specified dbt project directory.
 

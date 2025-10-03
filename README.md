@@ -1,6 +1,6 @@
 # dbtfetch
 
-A neofetch-style system information tool for dbt (data build tool) projects.
+A neofetch-style system information tool for dbt projects.
 
 ## Features
 
