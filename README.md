@@ -2,6 +2,27 @@
 
 A neofetch-style system information tool for dbt projects.
 
+```
+.:===-..                .:===-.       my_dbt_project@dbt
+.========-..          .:========:     ------------------
+:===========-.     .-============.    Project: my_dbt_project
+.:=============-:. .-===========.     Version: 1.0.0
+ .:================..=========-.      Profile: my_profile
+  .:==========================.       dbt Version: 1.6.0
+    :=======================-         
+    .:=====================-.         Models: 45
+      =========. .-========.          Tests: 23
+     .=========:..-========.          Macros: 8
+    .:======================.         Snapshots: 2
+    :========================.        Seeds: 3
+  .-==========================.       Packages: 5
+ .-=========:..================.      
+.-===========:. .:-=============.     SQL Lines: 3,247
+:===========:.     ..============.    
+.-=======:.           ..-=======.     Git Branch: main
+ ..-==..                  .:=-..      Last Commit: 2 days ago
+```
+
 ## Features
 
 - 🎨 Beautiful ASCII art display of your dbt project statistics
